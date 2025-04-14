@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+   font-family: sans-serif;
+    background-color: #f9fafb;
+    margin: 0;
+    padding: 0;
+    outline: none;
+  }
+  
+  button:focus, a:focus {
+    outline: 3px dashed #081430;
+    outline-offset: 2px;
+  }
