@@ -30,3 +30,5 @@ ClickAble is an accessibility-first web platform designed to help visually impai
 | **React Router** | Routing between pages |
 | **MockAPI (optional)** | Placeholder API support (for future live data) |
 | **Chrome Extension (MV3)** | Browser extension for on-hover speech |
+
+![image](https://github.com/user-attachments/assets/8f2b0d74-b0b4-4750-b37d-87e65c0f6678)
